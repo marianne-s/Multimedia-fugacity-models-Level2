@@ -1,8 +1,8 @@
 # Multimedia-fugacity-models-Level2
 Level 2 multimedia fugacity model designed for Environmental Chemistry students and researchers. </br>
-With Level 2, we introduce **advection** and **reactions** of the chemicals, providing the initial estimation of environmental persistence—a crucial property in determining the overall fate of a chemical in the environment. The Level II model remains evaluative. By incorporating loss processes, Level 2 is more realistic than Level I, although interphase equilibrium is still assumed. In a Level II model, the chemical is continuously emitted at a fixed rate E, reaching a steady state (with equilibrium between the phases), where input and output rates in the overall system are equal (see the figure below). The compartment into which the chemical is emitted is irrelevant, as it is instantaneously distributed throughout the entire system (due to the interphase equilibrium assumption).
+With Level 2, we introduce **advection** and **reactions** of the chemicals, providing the initial estimation of environmental persistence—a crucial property in determining the overall fate of a chemical in the environment. The Level 2 model remains evaluative. By incorporating loss processes, Level 2 is more realistic than Level 1, although interphase equilibrium is still assumed. In a Level 2 model, the chemical is continuously emitted at a fixed rate E, reaching a steady state (with equilibrium between the phases), where input and output rates in the overall system are equal (see the figure below). The compartment into which the chemical is emitted is irrelevant, as it is instantaneously distributed throughout the entire system (due to the interphase equilibrium assumption).
 
-## Jupyter immediat executable environment: 
+## Jupyter immediate executable environment: 
 
 You can run it directly in: </br></br>
 https://mybinder.org/v2/gh/marianne-s/Multimedia-fugacity-models-Level2/HEAD </br></br>

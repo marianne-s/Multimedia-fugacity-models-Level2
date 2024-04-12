@@ -1,4 +1,11 @@
 # Multimedia-fugacity-models-Level2
+
+## The model: 
+We will work with the following Level2 model:</br></br>
+![alt text](https://github.com/marianne-s/Multimedia-fugacity-models-Level2/blob/main/img/LEVEL2_Figure2.png?raw=true)
+</br></br>
+
+# Multimedia-fugacity-models-Level2
 Level 2 multimedia fugacity model designed for Environmental Chemistry students and researchers. </br>
 With Level 2, we introduce **advection** and **reactions** of the chemicals, providing the initial estimation of environmental persistence—a crucial property in determining the overall fate of a chemical in the environment. The Level 2 model remains evaluative. By incorporating loss processes, Level 2 is more realistic than Level 1, although interphase equilibrium is still assumed. In a Level 2 model, the chemical is continuously emitted at a fixed rate E, reaching a steady state (with equilibrium between the phases), where input and output rates in the overall system are equal (see the figure below). It is irrelevant into which compartment the chemical is emitted, as it is instantaneously distributed throughout the whole system (due to the interphase equilibrium assumption).
 
@@ -7,11 +14,6 @@ With Level 2, we introduce **advection** and **reactions** of the chemicals, pro
 You can run it directly in: </br></br>
 https://mybinder.org/v2/gh/marianne-s/Multimedia-fugacity-models-Level2/HEAD </br></br>
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/marianne-s/Multimedia-fugacity-models-Level2/HEAD)
-</br></br>
-
-## The model: 
-We will work with the following model:</br></br>
-![alt text](https://github.com/marianne-s/Multimedia-fugacity-models-Level2/blob/main/img/LEVEL2_Figure2.png?raw=true)
 </br></br>
 
 
